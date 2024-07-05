@@ -1,0 +1,8 @@
+﻿C:\Users\User\Desktop\Cuda C\HW Assignment\HW2-20240627T045518Z-001\HW2\sseInvert8\sseInvert8\invert8sse.cpp(23,16): : warning : unused variable 'inData' [-Wunused-variable]
+     23 |         unsigned char inData, outData;
+        |                       ^~~~~~
+C:\Users\User\Desktop\Cuda C\HW Assignment\HW2-20240627T045518Z-001\HW2\sseInvert8\sseInvert8\invert8sse.cpp(23,24): : warning : unused variable 'outData' [-Wunused-variable]
+     23 |         unsigned char inData, outData;
+        |                               ^~~~~~~
+  2 warnings generated.
+  sseInvert8.vcxproj -> C:\Users\User\Desktop\Cuda C\HW Assignment\HW2-20240627T045518Z-001\HW2\sseInvert8\x64\Release\sseInvert8.exe
