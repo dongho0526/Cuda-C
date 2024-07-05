@@ -1,4 +1,0 @@
-﻿  invert8sse.cpp
-C:\HOME\GPGPU\POSTECH2024\2024\SSE2024\sseInvert8\sseInvert8\invert8sse.cpp(210,30): warning C4309: 'argument': truncation of constant value
-C:\HOME\GPGPU\POSTECH2024\2024\SSE2024\sseInvert8\sseInvert8\invert8sse.cpp(242,33): warning C4309: 'argument': truncation of constant value
-  sseInvert8.vcxproj -> C:\HOME\GPGPU\POSTECH2024\2024\SSE2024\sseInvert8\x64\Debug\sseInvert8.exe
