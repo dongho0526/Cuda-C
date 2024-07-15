@@ -1,3 +1,0 @@
-C:\Users\ravia\Home\Postech\2021\2021CUDA\CudaDoubleStream\x64\Release\CudaDoubleStream.exe
-C:\Users\ravia\Home\Postech\2022\Cuda\CudaDoubleStream\x64\Release\CudaDoubleStream.exe
-C:\Users\ravia\Home\Postech\2023\cudaProgram\CudaDoubleStream\x64\Release\CudaDoubleStream.exe
